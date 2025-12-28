@@ -24,4 +24,4 @@ A Kotlin version that takes advantage of [reactor-kotlin-extensions](https://git
 More information available on [Reactor website](https://projectreactor.io).
 
 
-Tutorial can be found [here]([tutorial https://tech.io/playgrounds/929/reactive-programming-with-reactor-3/Request)
+Tutorial can be found [here](https://tech.io/playgrounds/929/reactive-programming-with-reactor-3/Request)
